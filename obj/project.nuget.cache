@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WfY2iofaqSsKwg8YoG29VJtKT3Oj8X+YsgnANc7A4GAHrK4WaEov9AyogpZ45ZqVuCJVBlGHZzL+4GPQ1oUB5Q==",
+  "dgSpecHash": "Ubz5le8L31/xvX2S4L5pVCUHZgD2xxBRnZPZX5Qfy5GbUwNs6AF6rNgM9e48iCVe7duhc1l8EweezYt+5c8Bcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Christian\\Desktop\\desenvolver estrutra API\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
@@ -142,7 +142,11 @@
     "C:\\Users\\Christian\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Christian\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
     "C:\\Users\\Christian\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Christian\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\Christian\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
